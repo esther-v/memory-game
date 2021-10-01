@@ -9,7 +9,7 @@ body{
     background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
 
 }
-.cards {
+.box-game {
     background: rgb(165, 165, 165);
     display: grid;
     grid-template: repeat(3, 200px) / repeat(4, 200px);
